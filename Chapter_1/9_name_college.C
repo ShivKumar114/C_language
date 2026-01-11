@@ -1,7 +1,7 @@
 # include <stdio.h>
 
 int main(){
-    printf("SHiv Kumar");
+    printf("SHiv Kumar\n");
     printf("LPU");
     return 0;
 }

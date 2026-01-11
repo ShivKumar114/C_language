@@ -1,0 +1,42 @@
+C code syntax
+               #include<stdio.h>         # Preprocessor dIRECTOR
+
+               int main(){
+                printf("hello world);
+                return 0;
+               }
+
+
+VAriabales
+         case sensitive
+         1st character is alphabet or _
+         no comma no blankspace
+         
+
+Data types 
+         int  -> print krne ke liye %d
+         float -> print krne ke liye %f
+         char -> print krne ke liye %c
+                used for special characters and single quote ke andr likhte hai isko 
+
+Constants 
+        Integer constant = all negative and positive numbers
+        Real Constants = 1.0 3.14 , -24 all real numbers
+        Character CONSTANTS  = uppercase letter , lowercase letter , special characters 
+
+
+# Character CONSTANTS  => always single quote ke andr likhte hai isko 
+
+Keyword = Reserved words (32 keywords in C)
+
+COmments  -> 
+            SIngle line //
+            Multiline /* */
+
+C mein input lene ke liye 
+                                scanf("format_specifier",&variablename)
+
+        format_specifier = %d , %f , %C
+        & variable ke namm ke phle lagana hota hai 
+
+
