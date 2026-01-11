@@ -1,0 +1,6 @@
+# statements = 3types
+(Type declaration , airthmetic instru)
+
+declaration = left se right ke taraf hota hai  hamesa C mein.
+
+
